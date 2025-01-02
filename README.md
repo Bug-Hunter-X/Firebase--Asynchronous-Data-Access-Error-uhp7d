@@ -1,0 +1,1 @@
+This repository demonstrates a common error when working with Firebase: accessing document snapshot properties before the data has fully loaded. The `bug.js` file shows the error in action, while `bugSolution.js` presents a solution using promises or async/await to handle the asynchronous nature of Firebase data retrieval.
